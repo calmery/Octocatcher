@@ -9,4 +9,5 @@ Capture octocat from octodex.
 Ex :  
 ```:
 ./Octocatcher all
+./Octocatcher random
 ```
