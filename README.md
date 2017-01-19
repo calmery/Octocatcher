@@ -1,7 +1,7 @@
 # Octocatcher
 Capture octocat from octodex.
 
-## Use
+## Usage
 ```:
 ./Octocatcher
 ```
